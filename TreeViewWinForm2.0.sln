@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewWinForm2.0", "TreeViewWinForm2.0\TreeViewWinForm2.0.csproj", "{48627C4A-9AB1-46BE-8073-9C1E0892E17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48627C4A-9AB1-46BE-8073-9C1E0892E17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48627C4A-9AB1-46BE-8073-9C1E0892E17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48627C4A-9AB1-46BE-8073-9C1E0892E17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48627C4A-9AB1-46BE-8073-9C1E0892E17D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308A7B09-61CE-4D44-90EA-A8E0CFCBAE97}
+	EndGlobalSection
+EndGlobal
